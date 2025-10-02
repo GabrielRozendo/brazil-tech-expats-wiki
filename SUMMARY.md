@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Money](money/README.md)
-* [Taxes](taxes/README.md)
-* [Tech & Tools](tech-and-tools/README.md)
+* [👋 Introdução](README.md)
+* [💰 Dinheiro](money/README.md)
+* [🏢 Impostos](taxes/README.md)
+* [🤖 Tech & Tools](tech-and-tools/README.md)
 * [🇪🇸 Espanha](countries/spain/README.md)
   * [Madrid](countries/spain/madrid.md)
   * [🥘 Valência](countries/spain/valencia.md)
