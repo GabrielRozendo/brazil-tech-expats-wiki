@@ -21,7 +21,7 @@ A partir de uma experiência pessoal de uma das integrantes da comunidade, escre
 
       <figure><img src="../../.gitbook/assets/WhatsApp Image 2023-07-08 at 11.55.06.jpeg" alt="" width="375"><figcaption><p><em>Tablón</em> de anuncios na frente da policia (Calle zapadors)</p></figcaption></figure>
   * Procedimento em 2022: [https://goo.gl/maps/y3Rmn5AxEKkeeMsn9](https://goo.gl/maps/y3Rmn5AxEKkeeMsn9)
-* Os requisitos, podem ser visto em [este site](https://cograsova.es/extranjeros/cartainvitacion.html) ou [neste pdf](https://cograsova.es/extranjeros/INFORMACION%202011/doc\_pdf/Instrucciones%20Carta%20de%20Invitaci%C3%B3n.pdf).
+* Os requisitos, podem ser visto em [este site](https://cograsova.es/extranjeros/cartainvitacion.html) ou [neste pdf](https://cograsova.es/extranjeros/INFORMACION%202011/doc_pdf/Instrucciones%20Carta%20de%20Invitaci%C3%B3n.pdf).
   * O requisito 7 _Anexo Instrucción 3/2021 firmado_ pelo visto atualmente (jul/23) não se pede.
 
 Tenha em conta que tudo isto pode estar desatualizado, mas serve de orientação.
@@ -83,7 +83,7 @@ O [MetroValencia](https://www.metrovalencia.es/) funciona muito bem no geral. At
 
 A [EMT](https://emtvalencia.info/es/) é a empresa de ônibus da cidade de Valência. O serviço deles é bom e o app para saber, por exemplo, quando passará o bus no ponto, funciona bem.
 
-Já o [MetroBus](https://es.wikipedia.org/wiki/Autobuses\_Metropolitanos\_de\_Valencia\_\(MetroBus\)) é uma alternativa ao metrô ou a única opção nos municípios onde não chega metrô.
+Já o [MetroBus](https://es.wikipedia.org/wiki/Autobuses_Metropolitanos_de_Valencia_\(MetroBus\)) é uma alternativa ao metrô ou a única opção nos municípios onde não chega metrô.
 
 ### Bicicleta
 
@@ -116,7 +116,8 @@ Um dos melhores cinemas de Valência, fica fora da cidade. Chama [Bonaire](https
 ### Comunidades
 
 * [Valencia Codes](https://valenciacodes.com/)
-* [VLCTechHub](https://join.slack.com/t/vlctechhub/shared\_invite/zt-1uwgwmzwg-4cdhd1ZcSfuneN9JCyFQNQ) - [https://vlctechfest.org/es/](https://vlctechfest.org/es/) eventos anuais (quase todo ano)
+* [VLCTechHub](https://join.slack.com/t/vlctechhub/shared_invite/zt-1uwgwmzwg-4cdhd1ZcSfuneN9JCyFQNQ) - [https://vlctechfest.org/es/](https://vlctechfest.org/es/) eventos anuais (quase todo ano)
+* [Women coding community](https://www.linkedin.com/company/womencodingcommunity)
 
 ### Comida
 
@@ -133,7 +134,7 @@ Recomendações das pessoas do canal #valencia:
 * [https://goo.gl/maps/JE8A9k1SzHM4P68e6](https://goo.gl/maps/JE8A9k1SzHM4P68e6)
 * [https://goo.gl/maps/Q4nQMkP21gkQLNye6](https://goo.gl/maps/Q4nQMkP21gkQLNye6)
 
-#### [Agua de Valência](https://es.wikipedia.org/wiki/Agua\_de\_Valencia)
+#### [Agua de Valência](https://es.wikipedia.org/wiki/Agua_de_Valencia)
 
 #### Restaurantes com comida Brasileira
 

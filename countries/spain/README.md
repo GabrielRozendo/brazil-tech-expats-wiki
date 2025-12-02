@@ -25,11 +25,12 @@ Na Espanha a burocracia a nível estatal é complicada, com falta de informaçã
 ### Definições básicas
 
 * **DNI**: Documento Nacional de Identificación. Este só tem quem tem a nacionalidade espanhola
-  * [**DNIe**](https://www.dnielectronico.es/PortalDNIe/): o mesmo que antes mas o eletrônico
+  * [**DNIe**](https://www.dnielectronico.es/PortalDNIe/): o mesmo que antes mas o eletrônico.
+  * [MiDNI](https://www.midni.gob.es/): Aplicativo que tem validade legal para **algumas** situações
 * **NIE**: Número de Identificación de Extranjero. Este é o número que você vai obter enquanto não tem o **DNI**
 * **TIE**: Tarjeta de Identificación de Extranjero. Este é o documento que irá associado (impresso nele) o **NIE**
 * [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online
-* [Cl@ve](https://clave.gob.es/clave\_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
+* [Cl@ve](https://clave.gob.es/clave_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
 * [**Padrón/Empadronamiento**](https://administracion.gob.es/pagFront/tramites/fichaTramite.htm?idTramiteSeleccionado=3485\&idMateria=21\&idBoletin=21): Este documento certifica onde você mora e é necessário para a maioria de processos burocráticos na Espanha. O local para se registrar e pedir o certificado depois do registro, é a prefeitura (_ayuntamiento_) do município que você more.
 * [**Número de Seguridad Social**](https://www.seg-social.es/wps/portal/wss/internet/Inicio): Um sistema obrigatório que protege os cidadãos espanhóis em caso de necessidade, fornecendo benefícios como desemprego, licença médica ou aposentadoria.\
   Você vai obter este número quando começar a trabalhar. Geralmente é a empresa quem _da de alta_ (e faz toda a gestão) isto.
@@ -41,9 +42,9 @@ Existe o caso de você poder ter um número associado de **NIE** quando dá entr
 
 Ao compartilhar documentos de forma online, se recomenda seguir algumas instruçoes por segurança. Você pode ver aqui como debe ser feito no caso do DNI:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Como compartilhar copia de DNI na internet </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Como compartilhar copia de DNI na internet</p></figcaption></figure>
 
-Referencias:&#x20;
+Referencias:
 
 [https://x.com/policiaelche/status/1660541163034517505](https://x.com/policiaelche/status/1660541163034517505)
 
@@ -59,7 +60,7 @@ Sempre é aconselhável contratar advogados especialistas em _extranjería_ para
 
 ### Nacionalidade
 
-Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos (obtenção do TIE).&#x20;
+Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos (obtenção do TIE).
 
 {% hint style="info" %}
 A lista abaixo não é definitiva, visto que a lista de documentos varia caso a caso (e.g. nacionalidade do aplicante).
@@ -103,7 +104,7 @@ Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do 
 Lugares importantes onde mudar
 
 * _Seguridad social_
-  * Online: [_Enviar solicitud_](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio?1dmy\&urile=wcm%3apath%3a/wps/wcm/connect/importass/importass\_contenidos/solicitudes/enviar)
+  * Online: [_Enviar solicitud_](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio?1dmy\&urile=wcm%3apath%3a/wps/wcm/connect/importass/importass_contenidos/solicitudes/enviar)
 * Agencia tributaria
   * Online: [_Modelo 030_](https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G321.shtml)
 * Bancos
@@ -112,7 +113,7 @@ Lugares importantes onde mudar
   * Comunidad Valenciana (GVA)
     * Você pode receber uma mensagem que o novo cartão está pronto e dai é só ir buscar
 * _Empadronamiento_/Prefeitura (presencial)
-  * A priori com mudar o padrón, automaticamente no período de um mês, você deve aparecer no [_Censo Electoral_](https://sede.ine.gob.es/ss/Satellite?c=Page\&cid=1254734719723\&lang=es\_ES\&p=1254734719723\&pagename=SedeElectronica%2FSELayout)_._ Se não aparecer, ir na _Sede Electrónica_ do INE e procurar fazer via digital.
+  * A priori com mudar o padrón, automaticamente no período de um mês, você deve aparecer no [_Censo Electoral_](https://sede.ine.gob.es/ss/Satellite?c=Page\&cid=1254734719723\&lang=es_ES\&p=1254734719723\&pagename=SedeElectronica%2FSELayout)_._ Se não aparecer, ir na _Sede Electrónica_ do INE e procurar fazer via digital.
 
 Outros lugares de interesse
 
@@ -140,7 +141,7 @@ Para realizar o trâmite, é necessário providenciar os seguintes documentos:
 * Certificado médico psicotécnico,
   * É possível economizar nesse processo ao aproveitar descontos de até 50% oferecidos em sites de cupons, e.g.: https://www.groupon.es/deals/centre-medic-sagrada-familia-1
 
-Se optar por seguir o processo por conta própria, é fundamental acessar o site de agendamento de citações da [DGT](https://sedeapl.dgt.gob.es/WEB\_NCIT\_CONSULTA/consultacanjes/consultarCitaCanjes.faces) e ficar monitorando diariamente por vagas.
+Se optar por seguir o processo por conta própria, é fundamental acessar o site de agendamento de citações da [DGT](https://sedeapl.dgt.gob.es/WEB_NCIT_CONSULTA/consultacanjes/consultarCitaCanjes.faces) e ficar monitorando diariamente por vagas.
 
 > Uma estratégia eficaz para encontrar uma vaga de agendamento é utilizar bots disponíveis no Telegram e no Twitter, que compartilham diariamente as vagas disponíveis em grupos dedicados.
 
@@ -177,12 +178,13 @@ A maioria dos bancos vão denegar ou complicar o processo se você disser que s�
 
 ### Utilidades
 
-* Bot no Telegram pra informar de novas citas em algumas prefeituras: [https://t.me/ayuinfo\_bot](https://t.me/ayuinfo\_bot)
-* Bot no Telegram para informar de novas citas na policia. Útil para _extranjería_: [https://t.me/check\_cita\_bot](https://t.me/check\_cita\_bot)
+* Bot no Telegram pra informar de novas citas em algumas prefeituras: [https://t.me/ayuinfo\_bot](https://t.me/ayuinfo_bot)
+* Bot no Telegram para informar de novas citas na policia. Útil para _extranjería_: [https://t.me/check\_cita\_bot](https://t.me/check_cita_bot)
 * Buscador de citas para varios assuntos. Serviço pago a partir de 25 Euros. [https://www.robotcita.com/](https://www.robotcita.com/)
 * [Mi carpeta ciudadana](https://masinformacioncarpeta.carpetaciudadana.gob.es/infocc/es/masInformacion.html): Aplicação que concentra muitas das informações das diferentes administrações (_ayuntamientos_, _comunidades_ e _estado_) para o cidadão
-* [Legalitas](https://www.legalitas.com): É um serviço de suscrição de consultas pra advogados. Você paga entre 20 a 45 € por mes e pode perguntar o que quiser pra eles. Dependendo o plano, eles fazem coisas pra você
-To usando faz uns 6 meses (plano Contigo Plus) de e já fiz 13 consultas: muitas de hipoteca, duvidas de contrato trabalho e uma reclamação a um cara que não me fez fatura pra uma instalação. Este último o advogado fez as todas cartas e procedimentos pra reclamar o caso.
+* [Legalitas](https://www.legalitas.com): É um serviço de suscrição de consultas pra advogados. Você paga entre 20 a 45 € por mes e pode perguntar o que quiser pra eles. Dependendo o plano, eles fazem coisas pra você To usando faz uns 6 meses (plano Contigo Plus) de e já fiz 13 consultas: muitas de hipoteca, duvidas de contrato trabalho e uma reclamação a um cara que não me fez fatura pra uma instalação. Este último o advogado fez as todas cartas e procedimentos pra reclamar o caso.
+* Tradutores juramentados: Ver site do ministerio para procurar [https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Buscador-STIJ.aspx](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Buscador-STIJ.aspx)
+* Consultoría de trámites [https://entretramites.com/](https://entretramites.com/)
 
 ## Trabalho
 
@@ -191,6 +193,8 @@ To usando faz uns 6 meses (plano Contigo Plus) de e já fiz 13 consultas: muitas
 Uma referencia rápida é que na Espanha em geral os salários são mais altos que Portugal mas mais baixos que países como Países Baixos, Alemanha e UK.
 
 Nas cidades onde se paga mais e tem mais oportunidade é Madrid e Barcelona
+
+Um lugar onde obter contexto do mercado espanhol, é o reporte anual de Manfred: [https://www.getmanfred.com/developer-career-report](https://www.getmanfred.com/developer-career-report)
 
 ### Portais de emprego
 
@@ -206,6 +210,8 @@ Para calcular o que te corresponde declarar e pagar de imposto a partir do que v
 
 Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://salaryaftertax.com/es/salary-calculator). Ele é bem preciso
 
+Da pra contratar gestorías, sejam empresas físicas ou online tipo [https://taxfix.com](https://taxfix.com). TaxFix tem programa de recomendação. Pede lá no Slack o link de referral se quiser.
+
 ### Lei de Beckham
 
 Lei similar aos 30% rulling da Holanda, o qual fixa o imposto que você paga em 24%, ele começa a valer a pena se o salario for maior que € 60.000 ano.
@@ -218,15 +224,15 @@ Requisitos:
 Como solicitar:
 
 * Ter a Cl@ve
-* Apresentar o [formulário 030](https://sede.agenciatributaria.gob.es/Sede/en\_gb/censos-nif-domicilio-fiscal/declaraciones-censales-modelo-030.html)
-* Apresentar o [formulário 149](https://sede.agenciatributaria.gob.es/Sede/en\_gb/procedimientoini/G606.shtml) com os seguintes documentos
+* Apresentar o [formulário 030](https://sede.agenciatributaria.gob.es/Sede/en_gb/censos-nif-domicilio-fiscal/declaraciones-censales-modelo-030.html)
+* Apresentar o [formulário 149](https://sede.agenciatributaria.gob.es/Sede/en_gb/procedimientoini/G606.shtml) com os seguintes documentos
   * Contrato, contra cheque, Vida Laboral, NIE, Passaporte completo (incluindo paginas em branco)
 * Espere a aprovação (geralmente é rápido, por volta de 10 dias)
 * Apresente a confirmação para o RH da sua empresa
 
 ### Empresas
 
-Em Espanha a maioria das empresas são consultoras. Depois tem uma parte de multinacionais ou empresas grandes (bancos) como Cabify, Glovo, OpenBank, etc. E por último tem empresas de produto pequeno ou médio. Pela parte das consultoras, tem de tudo. Desde as conhecidas Big Four que na sua maioria fazem [exploração dos desenvolvedores](https://www.elconfidencial.com/empresas/2023-01-16/redada-trabajo-big-four-control-horarios\_3557071/), outras que vai depender do projeto e outras que são OK/boas. Para ter uma referência das consultoras, se pode consultar o site [Malditas Consultoras](https://malditasconsultoras.com/) ou o Glassdoor.
+Em Espanha a maioria das empresas são consultoras. Depois tem uma parte de multinacionais ou empresas grandes (bancos) como Cabify, Glovo, OpenBank, etc. E por último tem empresas de produto pequeno ou médio. Pela parte das consultoras, tem de tudo. Desde as conhecidas Big Four que na sua maioria fazem [exploração dos desenvolvedores](https://www.elconfidencial.com/empresas/2023-01-16/redada-trabajo-big-four-control-horarios_3557071/), outras que vai depender do projeto e outras que são OK/boas. Para ter uma referência das consultoras, se pode consultar o site [Malditas Consultoras](https://malditasconsultoras.com/) ou o Glassdoor.
 
 Uma quarta opção são as empresas de outros países da Europa (exemplo Alemanha ou UK) que tenham sede em Espanha.
 
@@ -250,7 +256,7 @@ Sites que oferecem mais opções de aluguel direto com proprietário (mais difí
 * [Wallapop](https://es.wallapop.com/)
 * [Milanuncios](https://www.milanuncios.com/)
 
-Serviços que exageram em preços&#x20;
+Serviços que exageram em preços
 
 * [Sttepping stone](https://www.steppingstonerentals.com/)
 * [Dasha living space](https://dashalivingspace.com/)
@@ -311,13 +317,15 @@ Tenha em conta que você terá que trocar o endereço em todos os serviços poss
 * Bancos
   * BBVA é presencial atualmente (jan/24)
 * Saúde
-  * Comunidad valenciana (GVA): Procedimento [https://www.gva.es/es/inicio/procedimientos?id\_proc=95185](https://www.gva.es/es/inicio/procedimientos?id\_proc=95185)
+  * Comunidad valenciana (GVA): Procedimento [https://www.gva.es/es/inicio/procedimientos?id\_proc=95185](https://www.gva.es/es/inicio/procedimientos?id_proc=95185)
 * Contas de compras online
 * Companhias de telefone e internet
 
 #### Frete/Serviços
 
 * [Sirelo](https://sirelo.es/)
+* Ben, de Yousriben Transport [+49 178 7904634](tel:+491787904634) (Alemanha -> Espanha)
+*
 
 ### Serviços
 
@@ -345,7 +353,7 @@ Se você recebe ligaçoes indesejadas, pode se cadastrar na [Lista Robinson](htt
 Comparadores de tarifas de luz
 
 * [https://www.simuladorfacturaluz.es/comparador-tarifas-luz/](https://www.simuladorfacturaluz.es/comparador-tarifas-luz/)
-* [https://www.grinchenergetico.es/simulador\_web.html](https://www.grinchenergetico.es/simulador\_web.html)
+* [https://www.grinchenergetico.es/simulador\_web.html](https://www.grinchenergetico.es/simulador_web.html)
 
 ### Outros
 
@@ -421,7 +429,8 @@ Existe esta plataforma pra ver que escolas tem nas cidades e de que tipo são (c
 
 * Carnes: [Delicatessen argentina](https://www.deliargentina.com/)
 * Produtos do Brasil: [Kibom](https://kibom.es/es/)
-* Drograria e cosméticos: [Primor](https://www.primor.eu/es\_es/) e [Druni](https://www.druni.es/)
+* Drograria e cosméticos: [Primor](https://www.primor.eu/es_es/) e [Druni](https://www.druni.es/)
+* Eletrónica: [Mediamarkt](https://www.mediamarkt.es/es/) y [PC Componentes](https://www.pccomponentes.com/)
 
 Um costume dos _locais_ que existe em muitos bairros e municípios, é comprar nas lojas de bairro como açougue, padaria, mercados municipais, quitandas e outros.
 
@@ -469,19 +478,24 @@ Abraços também são comuns quando as pessoas tem mais confiança.
 
 * [RTVE](https://www.rtve.es/) (estatal)
 * [La Marea](https://www.lamarea.com/) (independente)
+* [El Salto](https://www.elsaltodiario.com/) (independente)
 
 ### Séries
 
 Seriados são um ótimo jeito de conhecer a cultura e principalmente o idioma espanhol com seus diferentes sotaques
 
-* [Aquí no hay quien viva](https://es.wikipedia.org/wiki/Aqu%C3%AD\_no\_hay\_quien\_viva\_\(serie\_de\_televisi%C3%B3n\_espa%C3%B1ola\))
-* [Aida](https://es.wikipedia.org/wiki/A%C3%ADda\_\(serie\_de\_televisi%C3%B3n\_de\_Espa%C3%B1a\))
-* [La casa de papel](https://es.wikipedia.org/wiki/La\_casa\_de\_papel). Eu acho que vocês sabem qual é essa daqui
-* [Vis a Vis](https://es.wikipedia.org/wiki/Vis\_a\_vis\_\(serie\_de\_televisi%C3%B3n\))
-* [Las chicas del cable](https://es.wikipedia.org/wiki/Las\_chicas\_del\_cable)
-* [Paquita Salas](https://es.wikipedia.org/wiki/Paquita\_Salas)
+* [Aquí no hay quien viva](https://es.wikipedia.org/wiki/Aqu%C3%AD_no_hay_quien_viva_\(serie_de_televisi%C3%B3n_espa%C3%B1ola\))
+* [Aida](https://es.wikipedia.org/wiki/A%C3%ADda_\(serie_de_televisi%C3%B3n_de_Espa%C3%B1a\))
+* [La casa de papel](https://es.wikipedia.org/wiki/La_casa_de_papel). Eu acho que vocês sabem qual é essa daqui
+* [Vis a Vis](https://es.wikipedia.org/wiki/Vis_a_vis_\(serie_de_televisi%C3%B3n\))
+* [Las chicas del cable](https://es.wikipedia.org/wiki/Las_chicas_del_cable)
+* [Paquita Salas](https://es.wikipedia.org/wiki/Paquita_Salas)
 
 ### Podcasts
+
+{% embed url="https://open.spotify.com/show/3fveiqQJYnHUTLu1fTUWTN" %}
+Sobre homelab, smart home e Apple; principalmente
+{% endembed %}
 
 {% embed url="https://open.spotify.com/show/0RctycUmwttpDjMvKovO7r?si=5c43ae87bf6649f6" %}
 Sobre tecnologia
@@ -501,20 +515,22 @@ Experiências de pessoas da TI em Espanha
 
 ### Idioma
 
+#### Vocabulario
+
+Metálico/efectivo = dinheiro em papel, notas
+
 #### Professores/as
 
 > Mehl: Ela é espanhola, mas fala um pouco de português e sabe bem onde erramos no “portunhol”.
 
-- **Augustina**: `+61 481 893 458`
+* **Augustina**: `+61 481 893 458`
 
-> Bárbara Oliveira: Recomendo minha professora.
-Se chama Marta, é Espanhola, sotaque neutro e um amor de pessoa. 
+> Bárbara Oliveira: Recomendo minha professora. Se chama Marta, é Espanhola, sotaque neutro e um amor de pessoa.
 
 > Lucas Monteiro: Tem a Marta. Ela é espanhola. Eu e alguns conhecidos já fizemos aula com ela, foi bem bom!
 
-- **Marta**: `+34 611 07 69 78` [https://profemarta.es/](https://profemarta.es/)
-
+* **Marta**: `+34 611 07 69 78` [https://profemarta.es/](https://profemarta.es/)
 
 > Renato Viço: Opa eu tenho uma que cobra bem barato, e é BR vivendo aqui há mais de 15 anos
 
-- **Sabri**: `+34 617 55 32 23`
+* **Sabri**: `+34 617 55 32 23`
