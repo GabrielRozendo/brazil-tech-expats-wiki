@@ -4,8 +4,7 @@
 
 Brazil Tech Expats Wiki é o lugar onde acumulamos o conhecimento da comunidade Brasileira de expats.
 
-Este é um fork [do original](https://github.com/brazil-tech-expats/wiki) que não conseguem publicar na web.
-https://brazil-tech-expats.deandreamatias.com
+Este é um fork [do original](https://github.com/brazil-tech-expats/wiki), que não conseguem atualizar/publicar na web.&#x20;
 
 ### Wanna help?
 
@@ -18,8 +17,7 @@ https://brazil-tech-expats.deandreamatias.com
 
 ### Repos relacionados
 
-* [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
-* [Brasil Portugal](https://nighto.gitbook.io/brasil-portugal)
+- [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
 
 ## Código de Conduta
 
