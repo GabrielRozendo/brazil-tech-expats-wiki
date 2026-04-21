@@ -4,47 +4,50 @@
 Antes de ler esta página, leia a página de [Espanha](./) pra ter um contexto a nível nacional
 {% endhint %}
 
-{% hint style="warning" %}
-WIP
-{% endhint %}
+O metro de Madrid abrange toda região central da cidade e é uma ótima opção para se locomover. Eles oferecem um plano turístico com as principais atrações e os pontos do metrô que atendem cada um: https://www.metromadrid.es/sites/default/files/web/planos/planoturistico.pdf
 
 ## Transporte
 
+Site oficial sobre Mobilidade em Madrid: https://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/
+
 ### Carro
 
-A [EMT](https://emtvalencia.info/es/) é a empresa de ônibus da cidade de Valência. O serviço deles é bom e o app para saber, por exemplo, quando passará o bus no ponto, funciona bem.
+#### Zona de Baixas Emissões
 
-Já o [MetroBus](https://es.wikipedia.org/wiki/Autobuses\_Metropolitanos\_de\_Valencia\_\(MetroBus\)) é uma alternativa ao metrô ou a única opção nos municípios onde não chega metrô.
+Madrid tem um sistema de ZBE e ZBEDEP. Mais informações em https://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Zonas-de-Bajas-Emisiones/Madrid-Zona-de-Bajas-Emisiones/Madrid-Zona-de-Bajas-Emisiones-ZBE
 
-#### ZBE e ZBEDEP
 {% hint style="info" %}
 ZBE = Zona de Bajas Emisiones
 ZBEDEP = Zona de Bajas Emisiones de Especial Protección
 {% endhint %}
 
-Zona de Bajas Emisiones de Especial Protección
-(ZBEDEP) Distrito Centro. Matrícula extranjera
-o diplomática
+#### Veículos com matrícula estrangeiras
+
+Para rodar com veículos estrangeiros nas zonas restritas (região central da cidade), é necessário solicitar uma autorização prévia e temporária.
+Multas altíssimas são aplicadas para quem não cumpre as regras e há câmeras por toda a cidade.
+
+Link oficial: https://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Zonas-de-Bajas-Emisiones/Zonas-de-Bajas-Emisiones-de-Especial-Proteccion/Distrito-Centro-Zona-de-Bajas-Emisiones-de-Especial-Proteccion/ZBEDEP-Distrito-Centro-Matricula-extranjera-o-diplomatica
 
 ![](../../.gitbook/assets/madrid/ACCESO%20ZBEDEP%20-%20ZBE%20MATRICULAS%20EXTRANJERAS.pdf)
 
-2 meses
+##### Solicitação temporária
 
-zbedistritocentro@madrid.es
+Para solicitar autorização temporária para circular na ZBE com veículo estrangeiro, enviar um email para: `zbedistritocentro@madrid.es`
 
-Me encuentro viajando a Madrid con mi vehículo de matrícula portuguesa (Peugeot 5008, año 2018, matrícula AT-90-JA), y deseo solicitar la autorización para circular por la Zona de Bajas Emisiones (ZBE) de la ciudad durante mi estancia.
+_Exemplo de email:_
 
-Adjunto la ficha técnica del vehículo y una imagen de la matrícula. Mi coche cumple con la normativa Euro 6, por lo que entiendo que corresponde a una etiqueta ambiental C.
+> Me encuentro viajando a Madrid con mi vehículo de matrícula portuguesa (Peugeot 5008, año 2018, matrícula AT-90-JA), y deseo solicitar la autorización para circular por la Zona de Bajas Emisiones (ZBE) de la ciudad durante mi estancia.
+> Adjunto la ficha técnica del vehículo y una imagen de la matrícula. Mi coche cumple con la normativa Euro 6, por lo que entiendo que corresponde a una etiqueta ambiental C.
+>
+> Fechas previstas de circulación en Madrid:
+>
+> - Del 28 de junio al 4 de julio: C. de ABC, 123, Arganzuela, 28045 Madrid
+>
+> Motivo del viaje: turismo.
+> Agradezco su ayuda y quedo atento a cualquier información adicional que necesiten.
 
-Fechas previstas de circulación en Madrid:
-- Del 28 de junio al 4 de julio: C. de Ricardo Damas, 41, Arganzuela, 28045 Madrid
-- Del 4 al 12 de julio: Av. del Monte Valdelatas, 40, 28108 Alcobendas, Madrid
+#### Veículos permitidos
 
-Motivo del viaje: turismo.
-
-Agradezco su ayuda y quedo atento a cualquier información adicional que necesiten.
-
-VEHÍCULOS PERMITIDOS
 Se permitirá el acceso de estos vehículos a la Zona de Bajas Emisiones de Especial
 Protección (ZBEDEP) Distrito Centro siempre y cuando se equiparen con las
 características ambientales de los vehículos conforme el Reglamento General de
@@ -52,18 +55,31 @@ Vehículos.
 
 https://sede.dgt.gob.es/es/vehiculos/tramites-para-administraciones/descarga-de-fichero-zbe-zona-de-bajas-emisiones/index.html
 
-
 ### Metrô
 
-O [MetroMadrid](https://www.metromadrid.es) funciona muito bem no geral. Atualmente não tem muito ou nenhum horário circulando de madrugada, mas isto pode variar se é verão ou não.
+[Link oficial MetroMadrid](https://www.metromadrid.es) e [App](https://www.metromadrid.es/es/viaja-en-metro/apps)
 
-https://www.metromadrid.es/es/viaja-en-metro/apps
+Horário de funcionamento: 6:00 às 1:30
 
-#### Tarifas e títulos
-https://www.metromadrid.es/es/viaja-en-metro/titulos-y-tarifas/tipos-de-tarjeta
+#### Cartão de transporte e bilhetes
 
+Há mais de um tipo de cartão de transporte, veja mais informações em [https://www.metromadrid.es/es/viaja-en-metro/titulos-y-tarifas/tipos-de-tarjeta](https://www.metromadrid.es/es/viaja-en-metro/titulos-y-tarifas/tipos-de-tarjeta)
+
+Em geral, pode utilizar a "Tarjeta Multi" onde pode-se comprar vários bilhetes, inclusive o pacote de 10 que sai mais barato.
+
+Preços oficiais: https://www.metromadrid.es/es/viaja-en-metro/titulos-y-tarifas/tarifas
+
+#### Zonas
+
+Atenção às diferentes zonas, pois precisa ter o tipo de bilhete apropriado e adquirir antes de entrar nas catracas.
+
+https://www.metromadrid.es/sites/default/files/planoesquematico.pdf
+
+### Trens
+
+Consultar informações gerais da Espanha: https://brazil-tech-expats.deandreamatias.com/home/spain#trem
 
 ### Bicicleta
 
-* Serviço municipal público-privado de bikes, [BiciMad](https://www.bicimad.com)
-* Comprar uma bike usada no Wallapop
+- Serviço municipal público-privado de bikes, [BiciMad](https://www.bicimad.com)
+- Comprar uma bike usada no Wallapop
